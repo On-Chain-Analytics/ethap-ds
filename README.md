@@ -26,25 +26,27 @@ Please have a visit to our user interface [Ethereum Account Profiling](https://d
 - Tades in Uniswap v2 and Opensea Seaport data is fetched from [The Graph Network](https://thegraph.com/hosted-service)
 
 ## Usage
-Import fetching data functons
-```python
-from ETHAP.data_source import fetch_data
+After setting up .env, you can use the following commands:
+
+To fetch data from Uniswap v3 to your Google Cloud BigQuery project
+```terminal
+make run_fetch_uniswap
+```  
+
+To fetch data from Opensea Seaport to your Google Cloud BigQuery project
+```terminal
+make run_fetch_opensea
 ```
     
     
 ## :keyboard: Installation
-**pip install package**
-```shell
-pip install ETHAP
-```
     
 **Install from source**
 ```shell
 # Install ETHAP package together with the environment
-git clone https://github.com/On-Chain-Analytics/ETHAP.git
-cd ETHAP
-pip install -r requirements.txt
-python setup.py install
+git clone https://github.com/On-Chain-Analytics/ethap-ds.git
+cd ethap-ds
+pip install .
 ```
     
 
