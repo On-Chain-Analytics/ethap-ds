@@ -1,7 +1,8 @@
 <p align="center">
-    <img src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/3a0ba/eth-diamond-rainbow.webp" alt="ethap logo" width=80px />
+<img src="https://user-images.githubusercontent.com/114762620/211627044-d5f0516a-6086-4d69-906b-490e1a43ebf1.png" width="200" >
+
 </p>
-<h1 align="center">ETHAP</h1>
+
 <h3 align="center">:hatching_chick:Ethereum account analysis and classification:hatching_chick:</h3>
 
     
@@ -18,10 +19,7 @@ Please have a visit to our user interface [Ethereum Account Profiling](https://d
 
 ## :balloon: Highlights
 - Package is built upon [python(3.10)](https://www.python.org/downloads/release/python-3106/), scikit-learn. 
-- Unsupervised, PCA, KMeans...ML
-    
-    
-- The frontend is built upon [python(3.10)](https://www.python.org/downloads/release/python-3106/) and [streamlit(1.15.2)](https://streamlit.io/)
+- Unsupervised learning: implementation of PCA in KMeans clustering  
 - Up to date, token transfer data is fetched from [Etherscan](https://etherscan.io/)
 - Tades in Uniswap v2 and Opensea Seaport data is fetched from [The Graph Network](https://thegraph.com/hosted-service)
 
