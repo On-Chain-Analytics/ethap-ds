@@ -14,7 +14,8 @@ The model is trained on hundreds of millions of transactions.
   
 Please have a visit to our user interface [Ethereum Account Profiling](https://dives.fyi/apps/ethap/). 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/114762620/208110911-3f005d81-6e91-4ee8-bbdc-94a71ecc9dd5.png" />(https://dives.fyi/apps/ethap/)
+<img src="https://user-images.githubusercontent.com/114762620/212137845-deb4c990-0160-4a99-b9ab-f09c59b7deb1.png" />(https://dives.fyi/apps/ethap/)
+
 
 
 ## :balloon: Highlights
